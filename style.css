@@ -1,0 +1,25 @@
+.bar {
+    background: lawngreen;
+    width: 30px;
+    margin-top: 2px;
+}
+
+#chart {
+    display: flex;
+    width: 200px;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-bottom: 30px;
+}
+
+#exChart {
+    position: relative;
+    padding: 10px 10px 20px 50px;
+    margin-bottom: 20px;
+}
+
+.barx {
+    background: lightseagreen;
+    height: 20px;
+    margin-top: 2px;
+}
